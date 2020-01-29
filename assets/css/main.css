@@ -1,0 +1,11 @@
+#btnContainer button{
+    margin: 5px;
+}
+
+.gif-dump img {
+    padding: 10px
+}
+
+.img-container {
+    display: inline-block;
+}
